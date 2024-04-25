@@ -1,0 +1,26 @@
+[
+  {
+    "Nome": "Maverick",
+    "AnoDeLancamento": 1994,
+    "IncluidoNoPlano": false,
+    "SomaDasAvaliacoes": 0.0,
+    "TotalDeAvaliacoes": 0,
+    "DuracaoEmMinutos": 127
+  },
+  {
+    "Nome": "Dogville",
+    "AnoDeLancamento": 2003,
+    "IncluidoNoPlano": false,
+    "SomaDasAvaliacoes": 0.0,
+    "TotalDeAvaliacoes": 0,
+    "DuracaoEmMinutos": 178
+  },
+  {
+    "Nome": "Top Gun",
+    "AnoDeLancamento": 1986,
+    "IncluidoNoPlano": false,
+    "SomaDasAvaliacoes": 0.0,
+    "TotalDeAvaliacoes": 0,
+    "DuracaoEmMinutos": 109
+  }
+]
